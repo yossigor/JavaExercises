@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Node<T>
 {
     private T info;
